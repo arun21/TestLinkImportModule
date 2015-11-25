@@ -1,4 +1,4 @@
-# TestLink Brief
+### TestLink Brief
 
 TestLink is a web-based test management system that facilitates software quality assurance. It is developed and maintained by Teamtest. The platform offers support for test cases, test suites, test plans, test projects and user management, as well as various reports and statistics.
 
@@ -21,7 +21,7 @@ Test Projects are the basic organisational unit of TestLink. Test Projects could
 ##### Test Specifications
 TestLink breaks down the Test Specification structure into Test Suites and Test Cases. These levels are persisted throughout the application. One Test Project has just one Test Specification.
 
-# TestLinkImportModule
+### TestLinkImportModule
 
 As TestLink is a platform which offers support for test suites etc.
 
