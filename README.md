@@ -21,7 +21,7 @@ Test Projects are the basic organisational unit of TestLink. Test Projects could
 ##### Test Specifications
 TestLink breaks down the Test Specification structure into Test Suites and Test Cases. These levels are persisted throughout the application. One Test Project has just one Test Specification.
 
-### TestLinkImportModule
+### Test Link Import Module
 
 As TestLink is a platform which offers support for test suites etc.
 
